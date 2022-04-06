@@ -19,7 +19,7 @@
 </svelte:head>
 
 <!-- TODO Demo CSS variables and Tailwind 'prose' ustiity -->
-<div class="mx-auto mt-[var(--column-margin-top)] max-w-[var(--column-width)] mb-0">
+<div class="mx-auto mt-[var(--column-margin-top)] mb-0 max-w-[var(--column-width)]">
   <!-- <div class="mt-[var(--column-margin-top)] mx-auto prose lg:prose-xl"> -->
   <h1>About this app</h1>
 
