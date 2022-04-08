@@ -19,6 +19,7 @@
 </svelte:head>
 
 <!-- TODO Demo CSS variables and Tailwind 'prose' ustiity -->
+<!-- prettier-plugin-tailwind failes to sort due to custom classes with variable expansion -->
 <div class="mx-auto mt-[var(--column-margin-top)] mb-0 max-w-[var(--column-width)]">
   <!-- <div class="mt-[var(--column-margin-top)] mx-auto prose lg:prose-xl"> -->
   <h1>About this app</h1>
